@@ -4,7 +4,8 @@ select * from `cidades`
 
 
 INSERT INTO `cidades`(nome, area, estado_id)
-VALUES ('Campinas', 795, 29)
+VALUES ('Ibiporã', 300.1, 
+)
 
 INSERT INTO `cidades`(nome, area, estado_id)
 VALUES ('Niterói', 133.9, 23)
